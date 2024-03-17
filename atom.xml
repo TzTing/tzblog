@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mytingting.gitee.io/tzblog</id>
+    <title>一些记录</title>
+    <subtitle>= 编程、打球、游戏 =</subtitle>
+    <icon>https://mytingting.gitee.io/tzblog/images/favicon.ico</icon>
+    <link href="https://mytingting.gitee.io/tzblog" />
+    <author>
+      <name>Tz</name>
+    </author>
+    <updated>2023-06-24T11:12:45.000Z</updated>
+    <entry>
+        <id>https://mytingting.gitee.io/tzblog/2023/06/24/computer-science/dsa/week-1/</id>
+        <title>数据结构</title>
+        <link rel="alternate" href="https://mytingting.gitee.io/tzblog/2023/06/24/computer-science/dsa/week-1/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;test&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;数据结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构&#34;&gt;#&lt;/a&gt; 数据结构&lt;/h1&gt;
+&lt;h2 id=&#34;数据结构-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构-2&#34;&gt;#&lt;/a&gt; 数据结构&lt;/h2&gt;
+</content>
+        <category term="计算机科学" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/" />
+        <category term="数据结构" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
+        <category term="Java" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/java/" />
+        <updated>2023-06-24T11:12:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/tool-install/hello-world/</id>
+        <title>第2周 判断</title>
+        <link rel="alternate" href="https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/tool-install/hello-world/"/>
+        <content type="html">&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
+</content>
+        <category term="计算机科学" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/" />
+        <category term="编程语言" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/Program-language/" />
+        <category term="Java" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/Program-language/java/" />
+        <updated>2020-06-24T11:12:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-1/</id>
+        <title>第1周 计算</title>
+        <link rel="alternate" href="https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-1/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;test&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;课堂笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课堂笔记&#34;&gt;#&lt;/a&gt; 课堂笔记&lt;/h1&gt;
+&lt;h2 id=&#34;读输入-字符串输出&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读输入-字符串输出&#34;&gt;#&lt;/a&gt; 读输入、字符串输出&lt;/h2&gt;
+</content>
+        <category term="计算机科学" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/" />
+        <category term="编程语言" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/Program-language/" />
+        <category term="Java" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/Program-language/java/" />
+        <updated>2020-06-24T11:12:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-2/</id>
+        <title>第2周 判断</title>
+        <link rel="alternate" href="https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-2/"/>
+        <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
+test&lt;br /&gt;
+:::&lt;/p&gt;
+&lt;h1 id=&#34;课堂笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课堂笔记&#34;&gt;#&lt;/a&gt; 课堂笔记&lt;/h1&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
+</content>
+        <category term="计算机科学" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/" />
+        <category term="编程语言" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/Program-language/" />
+        <category term="Java" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/Program-language/java/" />
+        <updated>2020-06-24T11:12:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://mytingting.gitee.io/tzblog/2020/04/12/computer-science/framework/flink/flink-1/</id>
+        <title>第1周 计算</title>
+        <link rel="alternate" href="https://mytingting.gitee.io/tzblog/2020/04/12/computer-science/framework/flink/flink-1/"/>
+        <content type="html">&lt;h1 id=&#34;课堂笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课堂笔记&#34;&gt;#&lt;/a&gt; 课堂笔记&lt;/h1&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;span&gt;scanner&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;是一个分布式流处理框架，用于对有界数据和无界数据流的状态进行处理，能够做到高吞吐，低延迟，响应速度快、结果的准确性和良好的容错性&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="计算机科学" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/" />
+        <category term="框架" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/framework/" />
+        <category term="Java" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/framework/java/" />
+        <category term="大数据" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/framework/java/%E5%A4%A7%E6%95%B0%E6%8D%AE/" />
+        <category term="流处理" scheme="https://mytingting.gitee.io/tzblog/categories/computer-science/framework/java/%E5%A4%A7%E6%95%B0%E6%8D%AE/%E6%B5%81%E5%A4%84%E7%90%86/" />
+        <updated>2020-04-12T12:46:25.000Z</updated>
+    </entry>
+</feed>

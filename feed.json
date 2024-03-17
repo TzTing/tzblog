@@ -1,0 +1,72 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "一些记录",
+    "subtitle": "= 编程、打球、游戏 =",
+    "icon": "https://mytingting.gitee.io/tzblog/images/favicon.ico",
+    "description": "君将自由, 我心亦然",
+    "home_page_url": "https://mytingting.gitee.io/tzblog",
+    "items": [
+        {
+            "id": "https://mytingting.gitee.io/tzblog/2023/06/24/computer-science/dsa/week-1/",
+            "url": "https://mytingting.gitee.io/tzblog/2023/06/24/computer-science/dsa/week-1/",
+            "title": "数据结构",
+            "date_published": "2023-06-24T11:12:45.000Z",
+            "content_html": "<div class=\"note info\">\n<p>test</p>\n</div>\n<h1 id=\"数据结构\"><a class=\"anchor\" href=\"#数据结构\">#</a> 数据结构</h1>\n<h2 id=\"数据结构-2\"><a class=\"anchor\" href=\"#数据结构-2\">#</a> 数据结构</h2>\n",
+            "tags": [
+                "计算机科学",
+                "数据结构",
+                "Java"
+            ]
+        },
+        {
+            "id": "https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/tool-install/hello-world/",
+            "url": "https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/tool-install/hello-world/",
+            "title": "第2周 判断",
+            "date_published": "2020-06-24T11:12:45.000Z",
+            "content_html": "<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n",
+            "tags": [
+                "计算机科学",
+                "编程语言",
+                "Java"
+            ]
+        },
+        {
+            "id": "https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-1/",
+            "url": "https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-1/",
+            "title": "第1周 计算",
+            "date_published": "2020-06-24T11:12:45.000Z",
+            "content_html": "<div class=\"note info\">\n<p>test</p>\n</div>\n<h1 id=\"课堂笔记\"><a class=\"anchor\" href=\"#课堂笔记\">#</a> 课堂笔记</h1>\n<h2 id=\"读输入-字符串输出\"><a class=\"anchor\" href=\"#读输入-字符串输出\">#</a> 读输入、字符串输出</h2>\n",
+            "tags": [
+                "计算机科学",
+                "编程语言",
+                "Java"
+            ]
+        },
+        {
+            "id": "https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-2/",
+            "url": "https://mytingting.gitee.io/tzblog/2020/06/24/computer-science/program-language/java/week-2/",
+            "title": "第2周 判断",
+            "date_published": "2020-06-24T11:12:45.000Z",
+            "content_html": "<p>:::note info<br />\ntest<br />\n:::</p>\n<h1 id=\"课堂笔记\"><a class=\"anchor\" href=\"#课堂笔记\">#</a> 课堂笔记</h1>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
+            "tags": [
+                "计算机科学",
+                "编程语言",
+                "Java"
+            ]
+        },
+        {
+            "id": "https://mytingting.gitee.io/tzblog/2020/04/12/computer-science/framework/flink/flink-1/",
+            "url": "https://mytingting.gitee.io/tzblog/2020/04/12/computer-science/framework/flink/flink-1/",
+            "title": "第1周 计算",
+            "date_published": "2020-04-12T12:46:25.000Z",
+            "content_html": "<h1 id=\"课堂笔记\"><a class=\"anchor\" href=\"#课堂笔记\">#</a> 课堂笔记</h1>\n<figure class=\"highlight java\"><figcaption data-lang=\"java\"><span>scanner</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>是一个分布式流处理框架，用于对有界数据和无界数据流的状态进行处理，能够做到高吞吐，低延迟，响应速度快、结果的准确性和良好的容错性</pre></td></tr></table></figure>",
+            "tags": [
+                "计算机科学",
+                "框架",
+                "Java",
+                "大数据",
+                "流处理"
+            ]
+        }
+    ]
+}
